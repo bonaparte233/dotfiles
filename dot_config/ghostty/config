@@ -18,10 +18,10 @@ adjust-cell-height = 10%
 # Use the Catppuccin Mocha theme to match Starship and Neovim
 theme = "Catppuccin Mocha"
 # Enable background opacity (glassmorphism effect)
-background-opacity = 0.90
-background-blur = 20
+# background-opacity = 0.90
+# background-blur = 20
 # Hide the native macOS titlebar for a borderless, immersive look
-macos-titlebar-style = "hidden"
+# macos-titlebar-style = "hidden"
 
 # Add inner padding so text doesn't touch the window edges
 window-padding-x = 10
