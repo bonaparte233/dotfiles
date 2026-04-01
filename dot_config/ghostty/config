@@ -34,12 +34,9 @@ window-padding-y = 10
 mouse-hide-while-typing = true
 # Automatically copy selected text to the system clipboard
 copy-on-select = true
-# Allow CLI apps (like Neovim/Yazi) to update the terminal window title
-title-update = true
 
 # -----------------
 # 4. Cursor Settings
 # -----------------
 # Use a blinking bar cursor
 cursor-style = "bar"
-cursor-blink = true
