@@ -1,0 +1,45 @@
+# ==========================================
+# Ghostty Configuration
+# Theme: Catppuccin Mocha
+# ==========================================
+
+# -----------------
+# 1. Font & Layout
+# -----------------
+font-family = "JetBrainsMono Nerd Font"
+# Adjust font size for better readability
+font-size = 14
+# Slightly increase line height for double-line prompts
+adjust-cell-height = 10%
+
+# -----------------
+# 2. Appearance & Theme
+# -----------------
+# Use the Catppuccin Mocha theme to match Starship and Neovim
+theme = "Catppuccin Mocha"
+# Enable background opacity (glassmorphism effect)
+background-opacity = 0.90
+background-blur = 20
+# Hide the native macOS titlebar for a borderless, immersive look
+macos-titlebar-style = "hidden"
+
+# Add inner padding so text doesn't touch the window edges
+window-padding-x = 10
+window-padding-y = 10
+
+# -----------------
+# 3. Interaction & Behavior
+# -----------------
+# Hide the mouse cursor while typing
+mouse-hide-while-typing = true
+# Automatically copy selected text to the system clipboard
+copy-on-select = true
+# Allow CLI apps (like Neovim/Yazi) to update the terminal window title
+title-update = true
+
+# -----------------
+# 4. Cursor Settings
+# -----------------
+# Use a blinking bar cursor
+cursor-style = "bar"
+cursor-blink = true
